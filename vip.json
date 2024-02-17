@@ -52,16 +52,7 @@
       "filterable": 1,
       "ext": "http://cms11.lyyytv.cn/api.php/app/"
     },
-    {
-      "key": "csp_Nmys",
-      "name": "拾光┃农民",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./lib/nm4k.jar"
-    },
+
     {
       "key": "卧龙资源",
       "name": "拾光┃卧龙",
