@@ -6,7 +6,11 @@
     
     "主页url":"https://xxmsrj.com/",
     
+<<<<<<< HEAD
     "简介":"video-info-item video-info-content vod_content\"&&</div>",
+=======
+    "简介":"运输车提醒您请勿相信影片中的广告，以免上当受骗！+简介：&&</li>",
+>>>>>>> 57772b8b201c9a47b4d8d8a0d45a7c592d6649ee
     
     "导演":"导演：&&</li>",
     
@@ -34,14 +38,23 @@
     
     "线路数组":"data-target=&&</li>[不包含:思古高清][排序:思古]",
     
+<<<<<<< HEAD
     "线路标题":"+javascript:;\"&&</a>+",
+=======
+    "线路标题":"🚛+javascript:;\"&&</a>+🚛",
+>>>>>>> 57772b8b201c9a47b4d8d8a0d45a7c592d6649ee
     
     "播放数组":"id=\"ewave-playlist&&</ul>",
     
     "播放标题":"href=*>&&</a>",
     
     "播放列表":"<li&&</li>",
+<<<<<<< HEAD
     "分类url":"https://xxmsrj.com/index.php/vod/type/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;ak",
+=======
+    
+    "分类url":"https://xxmsrj.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;ak",
+>>>>>>> 57772b8b201c9a47b4d8d8a0d45a7c592d6649ee
     
     "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
     
